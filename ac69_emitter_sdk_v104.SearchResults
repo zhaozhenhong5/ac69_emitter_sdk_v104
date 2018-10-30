@@ -1,0 +1,2 @@
+---- emitter slave Matches (1 in 1 files) ----
+Bt_key_deal.c (apps_soundbox\bluetooth\btstack):			puts("emitter slave,open page_scan\n");
